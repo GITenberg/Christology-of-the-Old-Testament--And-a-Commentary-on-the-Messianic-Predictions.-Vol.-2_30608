@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34591
     wikipedia: http://en.wikipedia.org/wiki/Ernst_Wilhelm_Hengstenberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30608#Christology-of-the-Old-Testament--And-a-Commentary-on-the-Messianic-Predictions.-Vol.-2
 gutenberg_issued: '2009-12-05'
 gutenberg_type: Text
 identifiers:
