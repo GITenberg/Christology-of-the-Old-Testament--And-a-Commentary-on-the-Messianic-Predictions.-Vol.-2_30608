@@ -1,0 +1,35 @@
+_repo: Christology-of-the-Old-Testament--And-a-Commentary-on-the-Messianic-Predictions.-Vol.-2_30608
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Meyer, Theodore
+    gutenberg_agent_id: '34592'
+    url: http://www.gutenberg.org/2009/agents/34592
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hengstenberg, Ernst Wilhelm
+    alias: Hengstenberg, E. W. (Ernst Wilhelm)
+    birthdate: 1802
+    deathdate: 1869
+    gutenberg_agent_id: '34591'
+    url: http://www.gutenberg.org/2009/agents/34591
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_Wilhelm_Hengstenberg
+description: ''
+gutenberg_issued: '2009-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Messiah -- Prophecies'
+- !lcc 'BT'
+- !lcsh 'Bible. Old Testament -- Prophecies'
+title: 'Christology of the Old Testament: And a Commentary on the Messianic Predictions.
+  Vol. 2'
+url: http://www.gutenberg.org/ebooks/30608
